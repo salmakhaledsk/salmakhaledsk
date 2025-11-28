@@ -8,9 +8,10 @@
 <h3>Frontend Developerusing (React and Angular)</h3>
 
 <ul>
+  <li>🔭I’m currently working on e-commerce</li>
 <li>🔭I’m currently learning Devops</li>
-  <li>📫 How to reach me hoss.developer@gmail.com</li>
-  <li></li>
+  <li>📫 How to reach me  <a href="salmakhaled.skk@gmail.com">salmakhaled.skk@gmail.com</a></li>
+  
 </ul>
 
 
