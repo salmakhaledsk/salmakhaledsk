@@ -56,9 +56,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=salmakhaledsk&theme=transparent&hide_border=true&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=salmakhaledsk&theme=github-dark-blue&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=salmakhaledsk&theme=swift&hide_border=true)
-
 
 
 
