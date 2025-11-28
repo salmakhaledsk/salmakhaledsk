@@ -6,6 +6,7 @@
 ## Hi 👋i'm Salma Khaled
 
 <!--
+Frontend Developerusing (React and Angular)
 **salmakhaledsk/salmakhaledsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
