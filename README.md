@@ -6,7 +6,7 @@
 
 <h2> Hi 👋i'm Salma Khaled</h2>
 
-<h3>Frontend Developerusing (React and Angular)</h3>
+<h3>Frontend Developer using React | Angular</h3>
 
 <ul>
   <li>🎓 Faculty of Computers and information Systems</li>
