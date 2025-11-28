@@ -11,8 +11,9 @@
   <li>🔭I’m currently working on e-commerce</li>
 <li>🔭I’m currently learning Devops</li>
   <li>📫 How to reach me  <a href="salmakhaled.skk@gmail.com">salmakhaled.skk@gmail.com</a></li>
-  
 </ul>
+<h3>Connect with me: <a href="salmakhaled.skk@gmail.com"><img width="43" height="40" alt="image" src="https://github.com/user-attachments/assets/8962a6fa-6295-45c7-9a10-ac63faaa0988" />
+</a></h3>
 
 
 
