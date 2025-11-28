@@ -46,7 +46,8 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/salmakhaledsk?template=classic&base.indepth=true&config.timezone=Africa%2FCairo)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmakhaledsk&theme=github)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salmakhaledsk&theme=github)
 
 
 ---
