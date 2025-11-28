@@ -5,7 +5,7 @@
 
 ## Hi 👋i'm Salma Khaled
 
-Frontend Developerusing (React and Angular)
+<h1>Frontend Developerusing (React and Angular)</h1>
 <!--
 
 **salmakhaledsk/salmakhaledsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
