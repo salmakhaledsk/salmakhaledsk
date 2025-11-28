@@ -1,17 +1,20 @@
-# Hi 👋, I'm Salma Khaled
+
 
 
 
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966](https://github.com/user-attachments/assets/a327d9df-9451-480c-bcf8-ef9564e04881)
 
-
+# Hi 👋, I'm Salma Khaled
 
 ## 💻 About Me
-DevOps Engineer | Site Reliability Engineer | Full Stack Developer | Node.js | React.js
+ Frontend Developer React.js | Angular
 
-- 🎓 Faculty of Computers and Data Science
-- 🌍 Based in Alexandria, Egypt
-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/ahmed-hossam-19a303239/)
+- 🎓 Faculty of Computers and information Systems
+- 🌍 Based in Cairo, Egypt
+- 📫  How to reach me  <a href="salmakhaled.skk@gmail.com">salmakhaled.skk@gmail.com</a>
+
+<h3>Connect with me: <br> <a href="https://www.linkedin.com/in/salma-khaled-684583216/"><img width="43" height="40" alt="image" src="https://github.com/user-attachments/assets/8962a6fa-6295-45c7-9a10-ac63faaa0988" />
+</a></h3>
 
 ---
 
