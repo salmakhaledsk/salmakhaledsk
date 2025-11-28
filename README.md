@@ -53,7 +53,8 @@
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmakhaledsk&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=salmakhaledsk&theme=transparent&hide_border=true&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7)
+
 
 
 
