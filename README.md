@@ -9,9 +9,7 @@
 <h3>Frontend Developer using React | Angular</h3>
 
 <ul>
-  <li>🎓 Faculty of Computers and information Systems</li>
-<li>🌍 Based in Cairo, Egypt</li>
-  <li>🔭I’m currently working on e-commerce</li>
+  <li>🔭I’m currently working as Freelancer/li>
 <li>🌱 I’m currently learning Next.js</li>
   <li>📫 How to reach me  <a href="salmakhaled.skk@gmail.com">salmakhaled.skk@gmail.com</a></li>
 </ul>
