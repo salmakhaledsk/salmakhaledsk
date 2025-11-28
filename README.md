@@ -46,10 +46,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![Salma Khaled GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmakhaledsk&show_icons=true&theme=react)
+![Metrics](https://metrics.lecoq.io/salmakhaledsk?template=classic&base.indepth=true&config.timezone=Africa%2FCairo)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmakhaledsk&layout=compact&theme=react)
 
 ---
 
