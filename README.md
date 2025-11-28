@@ -3,11 +3,31 @@
 ![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966](https://github.com/user-attachments/assets/a327d9df-9451-480c-bcf8-ef9564e04881)
 
 
-##<h2> Hi 👋i'm Salma Khaled</h2>
+<h2> Hi 👋i'm Salma Khaled</h2>
 
 <h3>Frontend Developerusing (React and Angular)</h3>
-<!--
 
+<ul>
+<li>🔭I’m currently learning Devops</li>
+  <li>📫 How to reach me hoss.developer@gmail.com</li>
+  <li></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 **salmakhaledsk/salmakhaledsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
