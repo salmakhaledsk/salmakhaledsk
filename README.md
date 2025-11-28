@@ -25,17 +25,31 @@
 
 ## 🛠 Languages & Tools
 
-**Frontend Core:**  
-HTML • CSS • JavaScript • TypeScript  
-
-**Frameworks:**  
-Angular • Angular Material • RxJS  
-
-**Styling:**  
-TailwindCSS • Sass • Bootstrap • MUI  
-
-**Tools:**  
-Vite • Docker • Figma  
+<table>
+<tr>
+<td><img height="40" src="https://cdn.simpleicons.org/html5/E34F26" /></td>
+<td><img height="40" src="https://cdn.simpleicons.org/css3/1572B6" /></td>
+<td><img height="40" src="https://cdn.simpleicons.org/bootstrap/7952B3" /></td>
+</tr>
+<tr>
+<td><img height="40" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" /></td>
+<td><img height="40" src="https://cdn.simpleicons.org/javascript/F7DF1E" /></td>
+<td><img height="40" src="https://cdn.simpleicons.org/typescript/3178C6" /></td>
+</tr>
+<tr>
+<td><img height="40" src="https://cdn.simpleicons.org/angular/DD0031" /></td>
+<td><img height="40" src="https://cdn.simpleicons.org/reactivex/B7178C" /></td>
+<td><img height="40" src="https://cdn.simpleicons.org/materialdesign/1976D2" /></td>
+</tr>
+<tr>
+<td><img height="40" src="https://cdn.simpleicons.org/sass/CC6699" /></td>
+<td><img height="40" src="https://cdn.simpleicons.org/vite/646CFF" /></td>
+<td><img height="40" src="https://cdn.simpleicons.org/docker/2496ED" /></td>
+</tr>
+<tr>
+<td><img height="40" src="https://cdn.simpleicons.org/figma/F24E1E" /></td>
+</tr>
+</table>
 
 
 
