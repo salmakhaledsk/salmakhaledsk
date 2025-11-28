@@ -40,14 +40,15 @@
 ---
 
 ## 📊 GitHub Stats
-![Ahmed Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhoss22&show_icons=true&theme=react)
+![Salma Khaled GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmakhaledsk&show_icons=true&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhoss22&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmakhaledsk&layout=compact&theme=react)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedhoss22&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmakhaledsk&theme=react)
+
 
 
 
