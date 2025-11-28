@@ -11,6 +11,7 @@
 
 - 🎓 Faculty of Computers and information Systems
 - 🌍 Based in Cairo, Egypt
+- 🌱 I’m currently learning Next.js
 - 📫  How to reach me  <a href="salmakhaled.skk@gmail.com">salmakhaled.skk@gmail.com</a>
 
 <h3>Connect with me: <br> <a href="https://www.linkedin.com/in/salma-khaled-684583216/"><img width="43" height="40" alt="image" src="https://github.com/user-attachments/assets/8962a6fa-6295-45c7-9a10-ac63faaa0988" />
